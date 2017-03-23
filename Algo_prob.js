@@ -1,6 +1,4 @@
-
- editedanish file
-<<<<<<< HEAD
+dfdsfdsfsddsfds
 sdhfgsjfsjkdf
 sdfsdf
 sdf
